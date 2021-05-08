@@ -1,10 +1,17 @@
-![](__media/my_photo.jpg ':size=50%')
 
 # Личная страница  
+![](__media/my_photo.jpg ':size=50%')
 
+***
 ## Автобиография
 
-**Город и дата рождения**
+<details>
+<summary>Список (Нажать, чтобы развернуть)</summary>
 
-[Образование](education.md)
+- [Где я родился](start.md)
+
+- [Образование](education.md)
+
+</details>
+
 
