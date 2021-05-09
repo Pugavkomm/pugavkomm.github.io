@@ -1,17 +1,32 @@
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Обтекание</title>
+  <style>
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+  </style>
+ </head>
+ <body>
+  <h2>Личная страница</h2>
+  <p><img src="__media/my_photo.jpg" alt="Лейтенант Бокатуев" width="132" height="194" class="leftimg">
+Актуальная информация:
 
-# Личная страница  
-![](__media/my_photo.jpg ':size=50%')
+[Где я родился](start.md)
 
-***
-## Автобиография
+[Образование](education.md)
 
-<details>
-<summary>Список (Нажать, чтобы развернуть)</summary>
+[Работа](work.md)
 
-- [Где я родился](start.md)
+[Публикации](articles.md)
+ </body>
+</html>
 
-- [Образование](education.md)
-
-</details>
 
 
