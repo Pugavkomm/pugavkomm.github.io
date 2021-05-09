@@ -14,4 +14,5 @@
 
 ![logo](__media/icons/Octocat.png ':size=5%') [GitHub](https://github.com/Pugavkomm)
 ![vk](__media/icons/vk.svg ':size=5%') [VK](https://vk.com/mechislavp)
-
+![tg](__media/icons/Telegram.png ':size=5%') [Telegram](https://t.me/Mechislav)
+<!--- ![rg](__media/icons/rg.png ':size=5%') [RG](https://www.researchgate.net/profile/Mechislav-Pugavko)--->
