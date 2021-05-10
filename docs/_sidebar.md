@@ -4,5 +4,6 @@
 * [Образование](education.md)
 * [Опыт работы](work.md)
 * [Статьи](articles.md)
+* [Конференции](conf.md)
 * [Проекты](projects.md)
 * [Всякая разная фигня](thing.md)
