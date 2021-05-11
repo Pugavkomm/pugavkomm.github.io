@@ -14,4 +14,6 @@
 ?> Защитил ВКР: Динамика неоднородной сети дискретных модельных нейронов при контролируемом обучении системы резервуарных вычислений. Научный руководитель Некоркин Владимир Исаакович. 
 
 * В 2020 году прошел повышение квалификации по программе "Анализ изображений" в НИЯУ МИФИ. 
-
+![image analis](__media/image_analysis.jpg)
+[Скачать в формате .jpg](https://drive.google.com/file/d/1Uj-esu6jV8BclNQhRart-tdm6075n7TY/view?usp=sharing)
+[Скачать в формате .pdf](https://drive.google.com/file/d/10cS4wfenF9mVqQXVwwGdIz13_VPrN1r3/view?usp=sharing)
