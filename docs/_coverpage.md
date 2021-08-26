@@ -7,7 +7,6 @@
 
 > Personal site ( It is still under construction!!! )
 
-
 - Autobiography
 - Thoughts
 - Life
@@ -20,6 +19,7 @@ ___
 
  <img src="__media/icons/languages.svg" width="380" height="230">
 </body>
+
 </html>
 
 
@@ -30,4 +30,3 @@ ___
 ![rg](__media/icons/rg.png ':size=4%') [RG](https://www.researchgate.net/profile/Mechislav-Pugavko)
 ![tg](__media/icons/Telegram.png ':size=4%') [Telegram](https://t.me/Mechislav)
 <!---![vk](__media/icons/vk.svg ':size=4%') [VK](https://vk.com/mechislavp)!--->
-
