@@ -7,16 +7,12 @@
 
 > Personal site ( It is still under construction!!! )
 
-- Autobiography
-- Thoughts
-- Life
 ___
 > _GitHub stat_
 
 <html>
 <body>
- <img src="__media/icons/overview.svg" width="380" height="230">
-
+ 
  <img src="__media/icons/languages.svg" width="380" height="230">
 </body>
 
@@ -26,7 +22,7 @@ ___
 <!---![stats](__media/icons/languages.svg ':size=70%')--->
 
 ___
-![logo](__media/icons/Octocat.png ':size=4%') [GitHub](https://github.com/Pugavkomm)
-![rg](__media/icons/rg.png ':size=4%') [RG](https://www.researchgate.net/profile/Mechislav-Pugavko)
-![tg](__media/icons/Telegram.png ':size=4%') [Telegram](https://t.me/Mechislav)
-<!---![vk](__media/icons/vk.svg ':size=4%') [VK](https://vk.com/mechislavp)!--->
+![logo](__media/icons/Octocat.png ':size=2%') [GitHub](https://github.com/Pugavkomm)
+![vk](__media/icons/vk.svg ':size=2%') [VK](https://vk.com/mechislavp)
+
+[Continue](../README.md)

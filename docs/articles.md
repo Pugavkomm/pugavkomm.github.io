@@ -1,4 +1,7 @@
 # Articles
+
+## Review
+
 * [Maslennikov O V, Pugavko M M, Shchapin D S, Nekorkin V I "Nonlinear dynamics and machine learning of recurrent spiking neural networks" Phys. Usp., accepted](https://ufn.ru/en/articles/accepted/39043/)
 
 <details>
@@ -6,6 +9,8 @@
 
 The review describes the main results in the field of design and analysis of recurrent spiking neural networks for modeling functional brain networks. Key terms and definitions from the field of machine learning are given. The main approaches to the construction and study of spiking and rate neural networks trained to perform specific cognitive functions are shown. The modern hardware neuromorphic systems that imitate the information processing by the brain are described. The principles of nonlinear dynamics are discussed, which make it possible to identify the mechanisms for performing target tasks by neural networks.
 </details>
+
+## Work
 
 * [M. M. Pugavko, O. V. Maslennikov, V. I. Nekorkin. Dynamics of a network of map-based model neurons for supervised learning of a reservoir computing system. — Izvestiya VUZ. Applied Nonlinear Dynamics 2020. V. 28, N. 1. PP. 77-89](https://andjournal.sgu.ru/ru/articles/inamika-seti-diskretnyh-modelnyh-neyronov-pri-kontroliruemom-obuchenii-sistemy)
 
