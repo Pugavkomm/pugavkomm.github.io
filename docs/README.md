@@ -21,7 +21,7 @@ About:
 
 <html>
 --->
-![](__media/my_photo.jpg ':size=30%')
+![](__media/my_photo.jpg ':size=20%')
 
 ## Contact
 [![slavapugavko2@gmail.com](__media/icons/gmail.svg ':size=2%')](www:slavapugavko2@gmail.com) [slavapugavko2@gmail.com](slavapugavko2@gmail.com)
