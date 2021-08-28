@@ -1,4 +1,4 @@
-<html>
+<!--<html>
  <head>
   <meta charset="utf-8">
   <style>
@@ -16,14 +16,15 @@
   <h2>Personal site</h2>
   <p><img src="__media/my_photo.jpg" alt="Пугавко М.М." width="132" height="194" class="leftimg">
 About:
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
+
 </html> 
 
 <html>
+--->
+![](__media/my_photo.jpg ':size=30%')
 
-_E-mail:_
-
-[![slavapugavko2@gmail.com](__media/icons/gmail.svg ':size=4%')](www:slavapugavko2@gmail.com) [slavapugavko2@gmail.com](slavapugavko2@gmail.com)
+## Contact
+[![slavapugavko2@gmail.com](__media/icons/gmail.svg ':size=2%')](www:slavapugavko2@gmail.com) [slavapugavko2@gmail.com](slavapugavko2@gmail.com)
 
 _Other contacts:_
 > [![https://t.me/Mechislav](__media/icons/Telegram.png ':size=4%')](https://t.me/Mechislav) 

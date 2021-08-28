@@ -1,19 +1,19 @@
 # Educaion
 
-### Обучение в школе.
-* В 2014 закончил школу в Нижегородской области, г. Дзержинск МБОУ СОШ №68. 
+### School education
+*  In 2014, graduated from high school in the Nizhny Novgorod region, Dzerzhinsk No. 68.
 
-### Высшее образование
+### Higher education 
 
-* В 2018 году закончил бакалвират радиофизического факультета ННГУ им. Н. И. Лобачевского. 
+* In 2018, graduated from the bachelor's degree at the Faculty of Radiophysics of the N.N. N.I. Lobachevsky. 
 
-?> Защитил ВКР: Хаотическая пространственно-временная динамика в цепочке бистабильных взаимосвязанных отображений. Научный руководитель Некоркин Владимир Исаакович. 
+?> Graduation work: Chaotic space-time dynamics in a chain of bistable interconnected mappings. Scientific adviser Vladimir Isaakovich Nekorkin.
 
-* В 2020 году закончил с отличием магистратуру радиофизического факультета ННГУ им. Н. И. Лобачевского.
+* In 2020, graduated with honors from the magistracy of the Faculty of Radiophysics of N.N. N.I. Lobachevsky.
 
-?> Защитил ВКР: Динамика неоднородной сети дискретных модельных нейронов при контролируемом обучении системы резервуарных вычислений. Научный руководитель Некоркин Владимир Исаакович. 
+?> Graduation work : Dynamics of a heterogeneous network of discrete model neurons in controlled learning of a reservoir computing system. Scientific adviser Vladimir Isaakovich Nekorkin.
 
-* В 2020 году прошел повышение квалификации по программе "Анализ изображений" в НИЯУ МИФИ. 
+* In 2020, completed advanced training under the Image Analysis program at NRNU MEPhI.
 ![image analis](__media/image_analysis.jpg)
 [Download jpg](https://drive.google.com/file/d/1Uj-esu6jV8BclNQhRart-tdm6075n7TY/view?usp=sharing)
 [Download pdf](https://drive.google.com/file/d/10cS4wfenF9mVqQXVwwGdIz13_VPrN1r3/view?usp=sharing)
