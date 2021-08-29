@@ -21,6 +21,9 @@ About:
 
 <html>
 --->
+
+<center>
+
 ![](__media/my_photo.jpg ':size=20%')
 
 ## Contact
@@ -30,4 +33,4 @@ _Other contacts:_
 > [![https://t.me/Mechislav](__media/icons/Telegram.png ':size=4%')](https://t.me/Mechislav) 
 [![https://vk.com/mechislavp](__media/icons/vk.svg ':size=4%')](https://vk.com/mechislavp)
 [![https://vk.com/mechislavp](__media/icons/rg.png ':size=4%')](https://www.researchgate.net/profile/Mechislav-Pugavko)
-</html>
+</center>
