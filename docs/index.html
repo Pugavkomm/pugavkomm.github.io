@@ -22,27 +22,8 @@
         window.$docsify = {
             name: 'Pugavko Mechislav Mechislavovich',
             repo: 'https://github.com/Pugavkomm',
-            loadSidebar: true,
-            coverpage: true,
-            onlyCover: true,
-            notFoundPage: 'my404.md',
-            loadSidebar: true,
-            alias: {
-                '/.*/_sidebar.md': '/_sidebar.md'
-            },
-            subMaxLevel: 2,
-
-            sidebarDisplayLevel: 1, // set sidebar display level
-            pagination: {
-                previousText: 'Back',
-                nextText: 'Next',
-                crossChapter: true,
-                crossChapterText: true,
-            },
             darklightTheme: {
-                siteFont: "Source Sans Pro",
                 defaultTheme: 'dark',
-                codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
                 bodyFontSize: '16px',
                 dark: {
                     accent: '#42b983',
@@ -74,7 +55,27 @@
                     coverBackground: 'linear-gradient(to left bottom, hsl(30, 100%, 85%) 0%,hsl(200, 100%, 85%) 100%)',
                     toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
                 }
+            },
+            loadSidebar: true,
+            coverpage: true,
+
+            onlyCover: true,
+            notFoundPage: 'my404.md',
+
+            alias: {
+                '/.*/_sidebar.md': '/_sidebar.md'
+            },
+            subMaxLevel: 2,
+
+            sidebarDisplayLevel: 1, // set sidebar display level
+
+            pagination: {
+                previousText: 'Back',
+                nextText: 'Next',
+                crossChapter: true,
+                crossChapterText: true,
             }
+
         }
     </script>
     <!-- Docsify v4 -->

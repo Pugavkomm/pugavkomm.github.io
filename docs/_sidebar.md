@@ -5,6 +5,5 @@
 * [Education](education.md)
 * [Articles](articles.md)
 * [Conferences](conf.md)
-* [Projects](projects.md)
-* [Interests](interests.md)
-* [Things](thing.md)
+* [Projects (In progress)](projects.md)
+* [Interests (In progress)](interests.md)
