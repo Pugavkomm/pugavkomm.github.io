@@ -4,7 +4,7 @@ _Current position: [Junior Researcher](https://ipfran.ru/institute/staff/2640584
 
 At the moment I have been working at the Institute of Applied Physics of the Russian Academy of Sciences since 2017. He started as a research laboratory assistant. At the beginning of his career, he was engaged in the study of discrete models of chains. After that, he began to engage in research in the field of machine learning, namely reservoir computing and tasks related to the training of neural networks using cognitive tasks of computational neuroscience. 
 
-At the initial stage, I used the c ++ programming language to solve some problems using the OMP parallel computing technology. I took part at five [conferences](conf.md), including international ones. I have [3 articles](articles.md) in print media indexed by SCOPUS.
+At the initial stage, I used the c ++ programming language to solve some problems using the OMP parallel computing technology. I took part at [6 conferences](conf.md), including international ones. I have [3 articles](articles.md) in print media indexed by SCOPUS.
 
 
 <!---В настоящий момент работаю в институте прикладной физики Российской
