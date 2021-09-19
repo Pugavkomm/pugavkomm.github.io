@@ -27,7 +27,9 @@ About:
 ![](__media/my_photo.jpg ':size=20%')
 
 ## Contact
-[![slavapugavko2@gmail.com](__media/icons/gmail.svg ':size=2%')](www:slavapugavko2@gmail.com) [slavapugavko2@gmail.com](slavapugavko2@gmail.com)
+[pugavko@mechislav.ru](pugavko@mechislav.ru)
+
+[slavapugavko2@gmail.com](slavapugavko2@gmail.com)
 
 _Other contacts:_
 > [![https://t.me/Mechislav](__media/icons/Telegram.png ':size=4%')](https://t.me/Mechislav) 
