@@ -5,7 +5,7 @@
 
 # Mechislav Pugavko
 
-> Personal site ( It is still under construction!!! )
+> Personal site
 
 ___
 > _GitHub stat_
