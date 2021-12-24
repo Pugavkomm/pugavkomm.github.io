@@ -2,10 +2,10 @@
 
 ## Review
 
-* [Maslennikov O V, Pugavko M M, Shchapin D S, Nekorkin V I "Nonlinear dynamics and machine learning of recurrent spiking neural networks" Phys. Usp., accepted](https://ufn.ru/en/articles/accepted/39043/)
+* [Maslennikov O V, Pugavko M M, Shchapin D S, Nekorkin V I "Nonlinear dynamics and machine learning of recurrent spiking neural networks" Phys. Usp., accepted](https://doi.org/10.3367/UFNe.2021.08.039042)
 
 <details>
-    <summary> Abstract </summary>
+    <summary>Abstract</summary>
 
 The review describes the main results in the field of design and analysis of recurrent spiking neural networks for modeling functional brain networks. Key terms and definitions from the field of machine learning are given. The main approaches to the construction and study of spiking and rate neural networks trained to perform specific cognitive functions are shown. The modern hardware neuromorphic systems that imitate the information processing by the brain are described. The principles of nonlinear dynamics are discussed, which make it possible to identify the mechanisms for performing target tasks by neural networks.
 </details>
@@ -25,6 +25,8 @@ The purpose of this work is to develop a reservoir computing system that contain
 <details>
     <summary>Abstract</summary>
 
-Recurrent networks of artificial spiking neurons trained to perform target functions are a perspective tool for understanding dynamic principles of information processing in computational neuroscience. Here, we develop a system of this type based on a map-based model of neural activity allowing for producing various biologically relevant regimes. Target signals used to supervisely train the network are sinusoid functions of different frequencies. Impacts of individual neuron dynamics, coupling strength, network size and other key parameters on the learning error are studied. Our findings suggest, among others, that firing rate heterogeneity as well as mixing of spiking and nonspiking regimes of neurons comprising the network can improve its performance for a wider range of target frequencies. At a single neuron activity level, successful training gives rise to well separated domains with qualitatively different dynamics. 
+Recurrent networks of artificial spiking neurons trained to perform target functions are a perspective tool for understanding dynamic principles of information processing in computational neuroscience. Here, we develop a system of this type based on a map-based model of neural activity allowing for producing various biologically relevant regimes. Target signals used to supervisely train the network are sinusoid functions of different frequencies. Impacts of individual neuron dynamics, coupling strength, network size and other key parameters on the learning error are studied. Our findings suggest, among others, that firing rate heterogeneity as well as mixing of spiking and nonspiking regimes of neurons comprising the network can improve its performance for a wider range of target frequencies. At a single neuron activity level, successful training gives rise to well separated domains with qualitatively different dynamics.
 </details>
 
+* М.М. Пугавко, О.В. Масленников, В.И. Некоркин Динамика рекуррентной спайковой нейронной сети в задаче двухальтернативного выбора // Изв. вузов. Радиофизика (В
+печати).
