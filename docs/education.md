@@ -21,3 +21,5 @@
 [Download pdf](https://drive.google.com/file/d/10cS4wfenF9mVqQXVwwGdIz13_VPrN1r3/view?usp=sharing)
 ____
 ![sql](__media/sql.jpg)
+____
+![alg](__media/algs.jpg)
