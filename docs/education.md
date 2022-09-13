@@ -19,3 +19,5 @@
 ![image analis](__media/image_analysis.jpg)
 [Download jpg](https://drive.google.com/file/d/1Uj-esu6jV8BclNQhRart-tdm6075n7TY/view?usp=sharing)
 [Download pdf](https://drive.google.com/file/d/10cS4wfenF9mVqQXVwwGdIz13_VPrN1r3/view?usp=sharing)
+____
+![sql](__media/sql.jpg)

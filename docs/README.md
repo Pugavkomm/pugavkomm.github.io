@@ -27,8 +27,6 @@ About:
 ![](__media/my_photo.jpg ':size=20%')
 
 ## Contact
-[pugavko@mechislav.ru](pugavko@mechislav.ru)
-
 [slavapugavko2@gmail.com](slavapugavko2@gmail.com)
 
 _Other contacts:_
