@@ -28,9 +28,5 @@ The purpose of this work is to develop a reservoir computing system that contain
 Recurrent networks of artificial spiking neurons trained to perform target functions are a perspective tool for understanding dynamic principles of information processing in computational neuroscience. Here, we develop a system of this type based on a map-based model of neural activity allowing for producing various biologically relevant regimes. Target signals used to supervisely train the network are sinusoid functions of different frequencies. Impacts of individual neuron dynamics, coupling strength, network size and other key parameters on the learning error are studied. Our findings suggest, among others, that firing rate heterogeneity as well as mixing of spiking and nonspiking regimes of neurons comprising the network can improve its performance for a wider range of target frequencies. At a single neuron activity level, successful training gives rise to well separated domains with qualitatively different dynamics.
 </details>
 
-* [Pugavko, M. M., O. V. Maslennikov, and V. I. Nekorkin. "Dynamics of a Recurrent Spiking Neural Network in the Two-Alternative Choice Task." Radiophysics and Quantum Electronics 64.10 (2022): 736-749](https://link.springer.com/article/10.1007/s11141-022-10175-2)
-
-<details>
-    <summary>Abstract</summary>
-We have revealed the dynamic mechanism of solving a cognitive task of two-alternative choice by an artificial recurrent network of spiking neurons. The approach to designing a functional network model is described based on machine learning methods. The formation of a modular coupling structure during training is established. The properties of the network response, which underlie the performing of a target task, are found.
-</details>
+* М.М. Пугавко, О.В. Масленников, В.И. Некоркин Динамика рекуррентной спайковой нейронной сети в задаче двухальтернативного выбора // Изв. вузов. Радиофизика (В
+печати).
