@@ -35,3 +35,13 @@ Recurrent networks of artificial spiking neurons trained to perform target funct
 
 We have revealed the dynamic mechanism of solving a cognitive task of two-alternative choice by an artificial recurrent network of spiking neurons. The approach to designing a functional network model is described based on machine learning methods. The formation of a modular coupling structure during training is established. The properties of the network response, which underlie the performing of a target task, are found.
 </details>
+
+# Conference abstracts
+
+1.	http://www.shilnikov.unn.ru/pages/en/archive/workshop_2018/BookShWsh18.pdf (38 p.)
+1.	http://www.shilnikov.unn.ru/doc/123allShWsh2016fin.pdf (23 p.)
+1.	http://hpc-education.unn.ru/files/conference_hpc/2020/MMST2020_Proceedings.pdf (319 p.)
+1.	http://hpc-education.unn.ru/files/conference_hpc/2021/MMST2021_Proceedings.pdf (282 p.)
+1.	https://bik.sfu-kras.ru/ft/LIB2/ELIB/b22/free/i-559413.pdf  (227 p.)
+1.	http://sessiann.ru/files/24_teh_est_mat.pdf  (103-105 pp.)
+1.	http://old.rf.unn.ru/rus/sci/books/18/pdf/oscill.pdf  (205-208 pp.)

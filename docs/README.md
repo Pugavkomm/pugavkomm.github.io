@@ -26,6 +26,9 @@ About:
 
 ![](__media/my_photo.jpg ':size=20%')
 
+## Current country
+Argentina
+
 ## Contacts
 [slavapugavko2@gmail.com](mailto:slavapugavko2@gmail.com)
 
