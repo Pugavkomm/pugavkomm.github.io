@@ -2,7 +2,7 @@
 
 ## Review
 
-* [4.	Maslennikov O V, Pugavko M M, Shchapin D S, Nekorkin V I "Nonlinear dynamics and machine learning of recurrent spiking neural networks" Phys. Usp. 65 1020–1038 (2022)](https://ufn.ru/en/articles/2022/10/b/)
+* [Maslennikov O V, Pugavko M M, Shchapin D S, Nekorkin V I "Nonlinear dynamics and machine learning of recurrent spiking neural networks" Phys. Usp. 65 1020–1038 (2022)](https://ufn.ru/en/articles/2022/10/b/)
 
 <details>
     <summary>Abstract</summary>
@@ -11,6 +11,13 @@ The review describes the main results in the field of design and analysis of rec
 </details>
 
 ## Work
+
+* [Pugavko, M.M., Maslennikov, O.V. & Nekorkin, V.I. Multitask computation through dynamics in recurrent spiking neural networks. Sci Rep 13, 3997 (2023).]( https://doi.org/10.1038/s41598-023-31110-z)
+
+<details>
+    <summary>Abstract</summary>
+In this work, inspired by cognitive neuroscience experiments, we propose recurrent spiking neural networks trained to perform multiple target tasks. These models are designed by considering neurocognitive activity as computational processes through dynamics. Trained by input–output examples, these spiking neural networks are reverse engineered to find the dynamic mechanisms that are fundamental to their performance. We show that considering multitasking and spiking within one system provides insightful ideas on the principles of neural computation.
+    </details>
 
 * [M. M. Pugavko, O. V. Maslennikov, V. I. Nekorkin. Dynamics of a network of map-based model neurons for supervised learning of a reservoir computing system. — Izvestiya VUZ. Applied Nonlinear Dynamics 2020. V. 28, N. 1. PP. 77-89](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=ivp&paperid=357&option_lang=eng)
 
@@ -38,10 +45,11 @@ We have revealed the dynamic mechanism of solving a cognitive task of two-altern
 
 # Conference abstracts
 
-1.	http://www.shilnikov.unn.ru/pages/en/archive/workshop_2018/BookShWsh18.pdf (38 p.)
-1.	http://www.shilnikov.unn.ru/doc/123allShWsh2016fin.pdf (23 p.)
-1.	http://hpc-education.unn.ru/files/conference_hpc/2020/MMST2020_Proceedings.pdf (319 p.)
-1.	http://hpc-education.unn.ru/files/conference_hpc/2021/MMST2021_Proceedings.pdf (282 p.)
-1.	https://bik.sfu-kras.ru/ft/LIB2/ELIB/b22/free/i-559413.pdf  (227 p.)
-1.	http://sessiann.ru/files/24_teh_est_mat.pdf  (103-105 pp.)
-1.	http://old.rf.unn.ru/rus/sci/books/18/pdf/oscill.pdf  (205-208 pp.)
+1.<http://www.shilnikov.unn.ru/pages/en/archive/workshop_2018/BookShWsh18.pdf> (38 p.)
+
+1. <http://www.shilnikov.unn.ru/doc/123allShWsh2016fin.pdf> (23 p.)
+1. <http://hpc-education.unn.ru/files/conference_hpc/2020/MMST2020_Proceedings.pdf> (319 p.)
+1. <http://hpc-education.unn.ru/files/conference_hpc/2021/MMST2021_Proceedings.pdf> (282 p.)
+1. <https://bik.sfu-kras.ru/ft/LIB2/ELIB/b22/free/i-559413.pdf>  (227 p.)
+1. <http://sessiann.ru/files/24_teh_est_mat.pdf>  (103-105 pp.)
+1. <http://old.rf.unn.ru/rus/sci/books/18/pdf/oscill.pdf>  (205-208 pp.)
